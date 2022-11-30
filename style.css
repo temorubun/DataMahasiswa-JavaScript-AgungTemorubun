@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+}
+
+.Agung-Container {
+    position: relative;
+    max-width: 900px;
+    width: 100%;
+    border-radius: 6px;
+    padding: 30px;
+    margin: 0 15px;
+    background-color: white;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+.h1-Agung01 {
+    text-align: center;
+    font-size: 35px;
+    padding-top: 50px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    padding-bottom: 25px;
+}
+
+.h2-Agung01 {
+    padding-left: 25px;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 50px;
+}
+
+.h3-Agung01 {
+    text-align: center;
+    font-size: 45px;
+    text-decoration: underline;
+    padding-bottom: 50px;
+    text-align: center;
+    padding-bottom: 20px
+}
+
+.tableoutput {
+    margin-left: 120px;
+}
+
+.tableoutput tr td {
+    padding: 30px;
+}
+
+.h3-Agung01, .h3-Agung02, .Agung-H3 {
+    padding-left: 25px;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+
+.label-Agung0{
+    width: 252px;
+}
+
+.input-Agung01 {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 17px;
+}
+
+.tess {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 17px;
+    border-collapse: collapse red;
+    border-radius: 20PX;
+}
+
+.Agung-Tabel {
+    margin: 50px 50px 50px;  
+}
+
+.Agung-Tabel tr td {
+    padding: 15px;
+
+}
+
+.input-Agung01{
+    padding: 1%;
+    width: 100%;
+}
+
+.input-Agung01:hover {
+    background-color: rgba(0, 255, 255, 0.171);
+}
+
+.input-Agung01:active {
+    background-color: rgb(255, 255, 255);
+}
+
+.tombol-Agung01 {
+    background-color: rgba(0, 0, 0, 0.507);
+    color: white;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    padding: 10px 20px;
+    font-size: 17px;
+    margin-left: 25px;
+}
+
+.tombol-Agung01:hover {
+    color: black;
+}
+
+.tombol-Agung01:active {
+    background-color: rgb(255, 255, 255);
+}
+
+.div-agung02 {
+    
+    margin-left: 20px;
+    margin-right: 0px;
+
+}
+
+
